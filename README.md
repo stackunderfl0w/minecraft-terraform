@@ -51,3 +51,4 @@ https://aws.amazon.com/blogs/gametech/setting-up-a-minecraft-java-server-on-amaz
    ```bash
    nmap -sV -Pn -p T:25565 <instance_public_ip>   
    ```
+- You can also connect to the server in game by entering the ip adress output by the terraform script as the server ip.
